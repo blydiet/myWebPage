@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+.blockquote{
+	font-family: 'Pacifico', cursive;
+	width: 275px;
+	font-style: italic;
+
+	
+}
+.text{
+	font-family: 'Architects Daughter', cursive;
+	border: 20px;
+	padding:20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+
+}
+body{
+	border: 20px solid red;
+	padding:20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+}
+img{
+	border:20px ;
+	padding:20px;
+	padding-right: 50px;
+	padding-left: 50px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+}
+.color1{
+	color: gold;
+}
+.color2{
+	color: red;
+}
+
+.background{
+	  background-image: url("http://wallpapercraze.com/images/wallpapers/wonderwomanoutfit-885132.jpeg");
+}
